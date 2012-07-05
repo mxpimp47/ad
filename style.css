@@ -1,0 +1,58 @@
+body {
+	background-color:#f6f6f6;
+}
+h1 {
+	color:red;
+}
+#hero-advert {
+	height: 140px;
+	margin: 0;
+	position: relative;
+	z-index: 1;
+	margin-left: -10px;
+}
+#bd {
+	position: relative;
+	z-index: 2;
+	background: white;
+	padding: 10px;
+}
+#bg {
+	position: absolute;
+	width: 100%;
+	height: 775px;
+	overflow: hidden;
+	top: 40px;
+	left: 0;
+}
+.skin {
+	position: absolute;
+	width: 100%;
+	height: 775px;
+	overflow: hidden;
+	top: 40px;
+	left: 0;
+}
+.skin .wrap {
+	margin-left: 50%;
+}
+.skin .inner {
+	margin-left: -937px;
+	width: 1874px;
+}
+.left {
+	float: left;
+	
+}
+.right {
+	float: right;
+	
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+}
+div {
+	display: block;
+}
