@@ -4,7 +4,7 @@ h1 {
 #hero-advert {
     height: 140px;
     margin: -8px 0;
-    position: static;
+    position: relative;
     width: 960px;
 }
 #bd {
